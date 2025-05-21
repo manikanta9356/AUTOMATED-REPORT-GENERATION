@@ -121,3 +121,7 @@ Natural Language Processing (NLP) for symptom-based input.
 Telemedicine support with doctor feedback integration.
 
 Multilingual and mobile-friendly support.
+
+## OUTPUT
+
+
