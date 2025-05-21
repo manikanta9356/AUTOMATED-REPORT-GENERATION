@@ -2,7 +2,7 @@
 
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: Gattadi Praneesh
+NAME: Gattadi Manikanta
 
 INTERN ID: CT04DM1361
 
